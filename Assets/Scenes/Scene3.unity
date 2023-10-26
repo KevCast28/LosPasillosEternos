@@ -2512,6 +2512,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Werewolf
       objectReference: {fileID: 0}
+    - target: {fileID: 2891727390174405897, guid: 3a95f24fdc6e3bb4caca845a8179cefb, type: 3}
+      propertyPath: speed_run
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891727390174405897, guid: 3a95f24fdc6e3bb4caca845a8179cefb, type: 3}
+      propertyPath: speed_walk
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3146407592184421909, guid: 3a95f24fdc6e3bb4caca845a8179cefb, type: 3}
       propertyPath: speed
       value: 0.4
