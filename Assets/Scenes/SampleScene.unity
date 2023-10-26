@@ -6113,6 +6113,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4900174675400252106, guid: 4c8157a9b627d7f4580e479d4fbdb979, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4900174675400252106, guid: 4c8157a9b627d7f4580e479d4fbdb979, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4900174675400252106, guid: 4c8157a9b627d7f4580e479d4fbdb979, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
     - target: {fileID: 5006372282701021520, guid: 4c8157a9b627d7f4580e479d4fbdb979, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
