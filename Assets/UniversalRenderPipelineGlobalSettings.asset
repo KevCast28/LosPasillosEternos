@@ -15,7 +15,12 @@ MonoBehaviour:
   k_AssetVersion: 3
   m_RenderingLayerNames:
   - Default
-  m_ValidRenderingLayers: 1
+  - Player
+  - Black
+  - FOV
+  - Behind FOV
+  - Black
+  m_ValidRenderingLayers: 63
   lightLayerName0: 
   lightLayerName1: 
   lightLayerName2: 
